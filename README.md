@@ -1,3 +1,3 @@
 # 1st-demo-repo
 This is my first Git Repository
-Author - NUTEE UR RAHMAN
+Author - mUTEE UR RAHMAN
